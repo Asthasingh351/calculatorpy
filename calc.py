@@ -7,7 +7,7 @@ while True:
      print("Invalid input. Please enter a number.")
    
 
-# for second number ashcbkahbchsbhajchb
+# for second number
 while True:
          try:
                 num2 = float(input("Enter second number: "))
